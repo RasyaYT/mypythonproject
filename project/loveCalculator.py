@@ -21,6 +21,8 @@ o = lowerName.count('o')
 v = lowerName.count('v')
 e = lowerName.count('e')
 
+
+
 love = l + o + v + e
 
 loveScore = int(str(true) + str(love))
